@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "d:\playground\python_playground\Basic\Debug\raise.py", line 24, in <module>
+    raise Exception('This is error message')
+Exception: This is error message

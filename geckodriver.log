@@ -1,0 +1,493 @@
+1652583463747	geckodriver	INFO	Listening on 127.0.0.1:54174
+1652583466814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileGwJZ2a"
+1652583467107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileGwJZ2a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54175/devtools/browser/1678fc66-1352-41a3-a6eb-50ff4a8cadbc
+1652583468616	Marionette	INFO	Listening on port 54195
+Read port: 54195
+1652583468696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652583552837	Marionette	INFO	Stopped listening on port 54195
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilesqGryi"
+1652583549131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilesqGryi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56295/devtools/browser/66f1dd7f-769f-4ab6-818e-a559a3d41041
+1652583550591	Marionette	INFO	Listening on port 56315
+Read port: 56315
+1652583550705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652583553357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T02:59:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T02:59:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T02:59:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T02:59:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+1652583723177	Marionette	INFO	Stopped listening on port 56315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652583726454	geckodriver	INFO	Listening on 127.0.0.1:63193
+1652583729504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileUM0ilP"
+1652583729794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileUM0ilP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63194/devtools/browser/8826d01b-9e5e-48f0-9981-6d3fe452e35f
+1652583731041	Marionette	INFO	Listening on port 63211
+Read port: 63211
+1652583731061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652583762425	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:02:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:02:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:02:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:02:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652583777025	Marionette	INFO	Stopped listening on port 63211
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652583801160	geckodriver	INFO	Listening on 127.0.0.1:63350
+1652583804219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileQpTOHe"
+1652583804510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileQpTOHe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63351/devtools/browser/4f78ec77-82f0-4ff6-a5ec-a0d2bf87e315
+1652583806106	Marionette	INFO	Listening on port 63371
+Read port: 63371
+1652583806221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652583808670	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:03:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:03:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:03:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:03:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3Dkapersky&q=EgQkJbl8GKrbgZQGIhAhLAtSFrS_PTYCzyk1vQCIMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 707: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 707: WebGL context was lost.
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Extension error: TypeError: response is undefined moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js 21
+[[Exception stack
+Webpage/isFrameRedirected/<@moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js:21:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:698:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:878:22
+]]
+Extension error: TypeError: response is undefined moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js 21
+[[Exception stack
+Webpage/isFrameRedirected/<@moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js:21:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:698:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:878:22
+]]
+Extension error: TypeError: response is undefined moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js 21
+[[Exception stack
+Webpage/isFrameRedirected/<@moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js:21:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:698:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:878:22
+]]
+Extension error: TypeError: response is undefined moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js 21
+[[Exception stack
+Webpage/isFrameRedirected/<@moz-extension://3cb98f88-15cc-428f-8aa7-3e416a85ea65/content/webpage.js:21:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:698:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:878:22
+]]
+1652584108924	Marionette	INFO	Stopped listening on port 63371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19208, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652584114331	geckodriver	INFO	Listening on 127.0.0.1:54044
+1652584117422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilefGv5w0"
+1652584117710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilefGv5w0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54045/devtools/browser/b2383ea2-9165-45bf-9526-776263e8b364
+1652584119075	Marionette	INFO	Listening on port 54065
+Read port: 54065
+1652584119097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584121578	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:08:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:08:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:08:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:08:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652584152363	Marionette	INFO	Stopped listening on port 54065
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652584242699	geckodriver	INFO	Listening on 127.0.0.1:54778
+1652584245752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilemXq6hF"
+1652584246041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilemXq6hF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54779/devtools/browser/72f14eda-4ff0-4cf2-8301-6eb1322664c8
+1652584247324	Marionette	INFO	Listening on port 54803
+Read port: 54803
+1652584247420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584249850	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:10:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:10:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:10:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:10:49Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 19172, MediaDecoderStateMachine #1] WARNING: 16533dc5460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+[Child 19172, MediaDecoderStateMachine #1] WARNING: 1652ebbace0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+[Child 19172, MediaDecoderStateMachine #1] WARNING: 1652ebbace0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652584537542	Marionette	INFO	Stopped listening on port 54803
+lepmJukJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61673/devtools/browser/94d2d452-6044-417c-a7b6-0f21407b1964
+1652584465824	Marionette	INFO	Listening on port 61694
+Read port: 61694
+1652584465917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584468699	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:14:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:14:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:14:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:14:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 20212, MediaDecoderStateMachine #1] WARNING: 28911aed570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652584535361	Marionette	INFO	Stopped listening on port 61694
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652584538977	geckodriver	INFO	Listening on 127.0.0.1:61777
+1652584542053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilepjt9Ve"
+1652584542344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilepjt9Ve\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61778/devtools/browser/e1ae6043-5fce-436d-b8ef-5a76b74c83e0
+1652584543762	Marionette	INFO	Listening on port 61797
+Read port: 61797
+1652584543839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584549437	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:15:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:15:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:15:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:15:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652584701540	Marionette	INFO	Stopped listening on port 61797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileizZ8QE"
+1652584643218	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileizZ8QE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61886/devtools/browser/6ba18c04-0d16-4850-8b18-19f14462a29d
+1652584644603	Marionette	INFO	Listening on port 61907
+Read port: 61907
+1652584644715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584647463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:17:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:17:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:17:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:17:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652584702593	Marionette	INFO	Stopped listening on port 61901652584702890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--[Parent 19132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofileui9V3S"
+1652584703203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileui9V3S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57436/devtools/browser/4faef029-93d2-4808-9d85-04d22b7fcff2
+1652584704515	Marionette	INFO	Listening on port 57457
+Read port: 57457
+1652584704566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584707567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:18:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:18:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:18:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:18:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652584735317	Marionette	INFO	Stopped listening on port 57451652584736200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileGLrmoi"
+1652584736751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileGLrmoi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57523/devtools/browser/1d3e5781-b67e-4313-b051-ef368e89c76f
+1652584739020	Marionette	INFO	Listening on port 57546
+Read port: 57546
+1652584739082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584742908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:19:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:19:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:19:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:19:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652584788047	Marionette	INFO	Stopped listening on port 57541652584788687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileCxSlIs"
+1652584788976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileCxSlIs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57610/devtools/browser/0ca05c92-45fe-4b63-b78a-a56aa6363f2a
+1652584790295	Marionette	INFO	Listening on port 57631
+Read port: 57631
+1652584790361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584793834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:19:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:19:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:19:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:19:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652584811945	Marionette	INFO	Stopped listening on port 57631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652584816200	geckodriver	INFO	Listening on 127.0.0.1:57690
+1652584819268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileHTfNIm"
+1652584819562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileHTfNIm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57691/devtools/browser/6066e4ae-0617-4358-8942-f1caa2828413
+1652584820960	Marionette	INFO	Listening on port 57710
+Read port: 57710
+1652584821057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652584824754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652584897029	Marionette	INFO	Stopped listening on port 57710
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1652585264865	geckodriver	INFO	Listening on 127.0.0.1:51325
+1652585267944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilehWqCsk"
+1652585268220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilehWqCsk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51326/devtools/browser/ae12f5ab-1520-43b0-b8a0-e78b9dc0fbec
+1652585269517	Marionette	INFO	Listening on port 51345
+Read port: 51345
+1652585269603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652585272212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:27:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:27:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:27:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:27:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652585485932	Marionette	INFO	Stopped listening on port 51345
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+52-9c75-0687c3fb63c2
+1652585404066	Marionette	INFO	Listening on port 54172
+Read port: 54172
+1652585404088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652585406390	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:30:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:30:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:30:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:30:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652585486860	Marionette	INFO	Stopped listening on port 54172
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+lemhvKD3"
+1652585469377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilemhvKD3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54246/devtools/browser/9724e600-8e2e-417d-aab9-d1ecbe90d992
+1652585470877	Marionette	INFO	Listening on port 54266
+Read port: 54266
+1652585470951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652585473443	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:31:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:31:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:31:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:31:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[Child 20828, MediaDecoderStateMachine #1] WARNING: 25a13a0d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+[Child 20828, MediaDecoderStateMachine #1] WARNING: 25a0926b130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DGNQPnsVmD9o&hl=en line 1 > eval line 7579 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-05-15T03:33:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:33:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:33:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:33:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1652586397653	Marionette	INFO	Stopped listening on port 54266
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile5MuC8A"
+1652585612086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile5MuC8A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54371/devtools/browser/7b45339a-4f65-45df-a02c-39f3f6eda9a4
+1652585613684	Marionette	INFO	Listening on port 54391
+Read port: 54391
+1652585613801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652585616873	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-05-15T03:33:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:33:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:33:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-05-15T03:33:37Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fclient%3Dfirefox-b-d%26q%3Dautomate%2Bthe%2Bboring%2Bstuff&q=EgQkJbl8GKPpgZQGIhDEE0oXmS6qCB8fuwJp9c7pMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652586399416	Marionette	INFO	Stopped listening on port 54391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Temp\\rust_mozprofileJaqHM9"
+1652586287530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJaqHM9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56883/devtools/browser/d525ac47-ee16-4468-8db8-9cd737cbc42b
+1652586288792	Marionette	INFO	Listening on port 56904
+Read port: 56904
+1652586288811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DKhmer%26source%3Dhp%26ei%3DMXeAYvvDEJCLr7wPjfyooAU%26iflsig%3DAJiK0e8AAAAAYoCFQZbUT7D8BSShm8b6xyIthSaO282M&q=EgQkJbl8GLLugZQGIhA4MiCl11CmYygbofSXG6JcMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652586551194	Marionette	INFO	Stopped listening on port 56904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Temp\\rust_mozprofilelOVZiX"
+1652586368304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilelOVZiX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63657/devtools/browser/5a1b8e2d-aba9-4c29-9645-69f8673a194d
+1652586369625	Marionette	INFO	Listening on port 63677
+Read port: 63677
+1652586369685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DKhmer%2Bsexy%26source%3Dhp%26ei%3DgneAYtL6BdiEmAXToJmYBA%26iflsig%3DAJiK0e8AAAAAYoCFkqE9uvBHqLiP9xQFs2Fmr5YbZq_V&q=EgQkJbl8GILvgZQGIhDxEO92Sln2EhJY8M6-N9gKMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1652586389473	Marionette	INFO	Stopped listening on port 63677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652586394116	geckodriver	INFO	Listening on 127.0.0.1:63748
+1652586397186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileEY7ELh"
+1652586397490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileEY7ELh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63749/devtools/browser/33127673-a7bd-4e92-bbf1-bd93c906c6e1
+1652586399119	Marionette	INFO	Listening on port 63771
+Read port: 63771
+1652586399188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DKhmer%26source%3Dhp%26ei%3Dn3eAYr_SJfXqmAXPlqTACQ%26iflsig%3DAJiK0e8AAAAAYoCFr-CnYO3T8C5ID7XVf026SaRX9Xjf&q=EgQkJbl8GKDvgZQGIhBDGRtEraVxUHOktevZpH3DMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652586552215	Marionette	INFO	Stopped listening on port 63771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilexGOuWt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55177/devtools/browser/ddb914c2-e8a7-4e44-9ec9-1406e07ef3d7
+1652586437672	Marionette	INFO	Listening on port 55197
+Read port: 55197
+1652586437720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DKhmer%26source%3Dhp%26ei%3DxneAYtPECa-Cr7wP9u6qwAk%26iflsig%3DAJiK0e8AAAAAYoCF1hZeQNe1xBOSWj493Kc1kZhHTRYl&q=EgQkJbl8GMfvgZQGIhAy4-GnjOQfFCR9e8tdnuuEMgFy, line 1: SyntaxError: expected expression, got ','
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1652586457738	Marionette	INFO	Stopped listening on port 55197
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652586527063	geckodriver	INFO	Listening on 127.0.0.1:58950
+1652586530117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile2dCMIr"
+1652586530394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile2dCMIr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58951/devtools/browser/1c3e45ac-80c5-495c-862a-624b1d373dce
+1652586531796	Marionette	INFO	Listening on port 58971
+Read port: 58971
+1652586531893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1652586533459	Marionette	INFO	Stopped listening on port 58971
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
